@@ -2,7 +2,7 @@
 
 Welcome,
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **March 14, 2023**
+This is the Code Institute  third portfolio project test, the Python command-line project.
 
 ## Reminders
 
@@ -22,6 +22,8 @@ You must then create a _Config Var_ called `PORT`. Set this to `8000`
 If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
 
 Connect your GitHub repository and deploy as normal.
+
+Deploy app here [https://love-sandwiches50-20c2d4696594.herokuapp.com/]
 
 ## Constraints
 
